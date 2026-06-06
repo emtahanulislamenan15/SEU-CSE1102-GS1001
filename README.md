@@ -48,20 +48,32 @@ This project explores the fundamental concepts of Cyber Security, including comm
 
 ---
 
+## 📊 Key Visualizations
+
+**Data Table - Cyber Attack Statistics**
+![Data Table](images/data-table.png)
+
+**Bar Chart - Number of Incidents by Attack Type**
+![Bar Chart](images/bar-chart.png)
+
+**Cyber Security Components Diagram**
+![Cyber Security Diagram](images/diagram.png)
+
+---
+
+## 📊 Spreadsheet Explanation
+The `/excel` folder contains our main dataset of recent cyber attacks. We performed:
+- Data cleaning and filtering
+- Pivot tables for attack type distribution
+- Creation of charts and summary statistics
+
+---
+
 ## 🤖 Use of AI Tools
 
 - Grok AI: Helped with structuring the report, generating workflow, and improving README
 - ChatGPT: Assisted in content research and grammar checking
 - Microsoft Copilot: Supported in slide design and formatting
-
----
-
-## 📊 Spreadsheet Explanation
-The `/excel` folder contains our main dataset of recent cyber attacks, frequency of different attack types, and cost analysis. We used Excel for:
-- Data cleaning and filtering
-- Pivot tables for attack type distribution
-- Creating charts (Bar, Pie, Line) showing trends over years
-- Summary statistics and key findings
 
 ---
 
