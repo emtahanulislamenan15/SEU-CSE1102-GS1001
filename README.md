@@ -72,9 +72,3 @@ The `/excel` folder contains our main dataset of recent cyber attacks, frequency
 | Emtahanul Islam Enan      | Data collection, Excel analysis, Chart creation |
 | Md. Sohan Sheikh          | Research, Report writing, Content organization  |
 | Labonna Saha Joyeta       | Presentation slides, Overview & Recommendations |
-
-![Contribution Chart](images/contribution-chart.png)
-
----
-
-**Made with ❤️ by Group GS1001**
