@@ -27,16 +27,6 @@ This project explores the fundamental concepts of Cyber Security, including comm
 
 ---
 
-## 📁 Repository Structure
-
-- **`/slides`** → Presentation slides (.pptx & .pdf)
-- **`/report`** → Final project report (.pdf)
-- **`/excel`** → Raw data and Excel analysis files
-- **`/images`** → Charts, diagrams and screenshots
-- **`README.md`** → Project documentation
-
----
-
 ## 🔄 Project Workflow
 
 1. Topic selection and proposal approval
@@ -81,9 +71,9 @@ The `/excel` folder contains our main dataset of recent cyber attacks. We perfor
 
 | Member                    | Major Contributions                              |
 |---------------------------|--------------------------------------------------|
-| Emtahanul Islam Enan      | Data collection, Excel analysis, Chart creation |
-| Md. Sohan Sheikh          | Research, Report writing, Content organization  |
-| Labonna Saha Joyeta       | Presentation slides, Overview & Recommendations |
+| Emtahanul Islam Enan      | contributed by creating some of the presentation slides and settings up GitHub account. |
+| Md. Sohan Sheikh          | conducted detailed research on the topic and prepared the presentation slides based on the collected information. |
+| Labonna Saha Joyeta       | preparing the report, creating the data table in Microsoft Excel, and designing the bar chart.Also assisted other team members whenever needed |
 
 ## 📚 References
 
