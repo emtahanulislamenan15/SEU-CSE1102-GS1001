@@ -84,3 +84,12 @@ The `/excel` folder contains our main dataset of recent cyber attacks. We perfor
 | Emtahanul Islam Enan      | Data collection, Excel analysis, Chart creation |
 | Md. Sohan Sheikh          | Research, Report writing, Content organization  |
 | Labonna Saha Joyeta       | Presentation slides, Overview & Recommendations |
+
+## 📚 References
+
+1. Cybersecurity and Infrastructure Security Agency (CISA).  
+2. National Institute of Standards and Technology (NIST).  
+3. Cisco Cybersecurity Resources.  
+4. IBM Security Learning Center.
+
+---
